@@ -1,2 +1,2 @@
 # RabbitTracker
-이건 Habit -> Rabbit -> RabbitTracker -> collection carrots
+이건 Habit -> Rabbit -> RabbitTracker -> collecting carrots
