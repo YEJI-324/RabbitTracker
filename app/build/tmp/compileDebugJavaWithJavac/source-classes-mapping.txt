@@ -1,0 +1,10 @@
+com/hello/RabbitTracker/databinding/ActivitySignupBinding.java
+ com.hello.RabbitTracker.databinding.ActivitySignupBinding
+com/hello/RabbitTracker/BuildConfig.java
+ com.hello.RabbitTracker.BuildConfig
+com/hello/RabbitTracker/databinding/ActivityLoginBinding.java
+ com.hello.RabbitTracker.databinding.ActivityLoginBinding
+com/hello/RabbitTracker/databinding/TodoListItemBinding.java
+ com.hello.RabbitTracker.databinding.TodoListItemBinding
+com/hello/RabbitTracker/databinding/ActivityMainBinding.java
+ com.hello.RabbitTracker.databinding.ActivityMainBinding

@@ -1,0 +1,4 @@
+#Fri Apr 02 17:46:14 KST 2021
+base.0=/Users/yejikim/AndroidStudioProjects/RabbitTracker/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
